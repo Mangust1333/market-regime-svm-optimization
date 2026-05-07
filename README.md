@@ -7,6 +7,6 @@ A rigorous exploration of the mathematical foundations of supervised learning. T
 - **Kernel Trick:** Applied various kernel functions to model non-linear dependencies, allowing for flexible decision boundaries in high-dimensional feature spaces.
 - **Soft-margin & Regularization:** Integrated structural risk minimization to balance the trade-off between margin maximization and classification error.
 
-### Optimization & Structural Risk Logic:
+### Optimization:
 - **Dual Form Mastery:** Solving the dual problem is a fundamental competency in Quantitative Finance, directly applicable to constrained portfolio optimization and risk-neutral density estimation.
 - **High-Dimensional Decision Boundaries:** The project showcases the ability to define robust safety margins. In a risk context, this is critical for counterparty credit-risk classification and determining "tail-risk" boundaries where linear models fail.
